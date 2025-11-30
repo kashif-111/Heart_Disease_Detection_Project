@@ -1,11 +1,11 @@
 # Heart_Disease_Detection_Project
 Heart disease prediction involves using medical data—such as age, BP, cholesterol levels, lifestyle habits, and test results—to estimate a person’s risk of developing heart-related conditions. Machine learning models analyze patterns in this data to help identify high-risk individuals early, enabling timely diagnosis and preventive treatment
 
-❤️ Heart Disease Prediction
+ Heart Disease Prediction
 
 This project aims to predict the likelihood of heart disease using machine learning techniques. By analyzing key health indicators such as age, blood pressure, cholesterol level, and lifestyle factors, the model helps identify individuals who may be at risk. Early prediction can support timely diagnosis and preventive healthcare decisions.
 
-📌 Features
+ Features
 
 Data preprocessing and cleaning
 
@@ -46,6 +46,7 @@ Number of major vessels
 Thalassemia
 
 (Replace with exact columns if you have a specific dataset.)
+
 
 🧠 Machine Learning Models Used
 
